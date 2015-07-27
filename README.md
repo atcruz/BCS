@@ -1,0 +1,2 @@
+# BCS
+Phonegap Barcode Scanner
